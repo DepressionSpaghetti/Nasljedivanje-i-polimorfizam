@@ -1,0 +1,8 @@
+C:\Users\Piero\Documents\School\NiOP\Nasljedivanje_i_polimorfizam\Nasljedivanje_i_polimorfizam\bin\Debug\Nasljedivanje_i_polimorfizam.exe.config
+C:\Users\Piero\Documents\School\NiOP\Nasljedivanje_i_polimorfizam\Nasljedivanje_i_polimorfizam\bin\Debug\Nasljedivanje_i_polimorfizam.exe
+C:\Users\Piero\Documents\School\NiOP\Nasljedivanje_i_polimorfizam\Nasljedivanje_i_polimorfizam\bin\Debug\Nasljedivanje_i_polimorfizam.pdb
+C:\Users\Piero\Documents\School\NiOP\Nasljedivanje_i_polimorfizam\Nasljedivanje_i_polimorfizam\obj\Debug\Nasljedivanje_i_polimorfizam.csproj.AssemblyReference.cache
+C:\Users\Piero\Documents\School\NiOP\Nasljedivanje_i_polimorfizam\Nasljedivanje_i_polimorfizam\obj\Debug\Nasljedivanje_i_polimorfizam.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piero\Documents\School\NiOP\Nasljedivanje_i_polimorfizam\Nasljedivanje_i_polimorfizam\obj\Debug\Nasljedivanje_i_polimorfizam.csproj.CoreCompileInputs.cache
+C:\Users\Piero\Documents\School\NiOP\Nasljedivanje_i_polimorfizam\Nasljedivanje_i_polimorfizam\obj\Debug\Nasljedivanje_i_polimorfizam.exe
+C:\Users\Piero\Documents\School\NiOP\Nasljedivanje_i_polimorfizam\Nasljedivanje_i_polimorfizam\obj\Debug\Nasljedivanje_i_polimorfizam.pdb
